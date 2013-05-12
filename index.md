@@ -3,7 +3,7 @@ title: co-hi-
 layout: default
 ---
 
-![aeropress](pspegg.github.io/cohi/aero.jpg)
+![aeropress](http://pspegg.github.io/cohi/aero.jpg)
 
 # 制咖啡法
 

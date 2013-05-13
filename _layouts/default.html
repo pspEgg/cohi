@@ -11,11 +11,33 @@ title: template
 </head>
 
 <style type="text/css">
+	html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, figure, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	}
+
 	body{
 	font-size:24px;
 	}
 	h1,h2,h3{
+	font-size:1.5em;
 	text-align:center;
+	background-color: maroon;
+	color:white;
+	margin-top:1em;
 	}
 	figure{
 	width:130px;
@@ -25,16 +47,27 @@ title: template
 	width:100%;
 	}
 	#content{
+
+	}
+	p{
+		width:90%;
 	max-width:640px;
-	margin:0 auto
-	padding:0 4%;
+	margin:0 auto;
+	margin-top:0.8em;
 	}
 </style>
 
 <body>
 <section id="content">
-</section>
+
+ <!--
+<figure><img src="http://pspegg.github.io/cohi/aero.jpg" /></figure> 
+<h1>制作咖啡</h1>
+<p>周二晚上，旧金山现代艺术馆顶楼，"蓝瓶子"的咖啡师在长桌上摆一排陶碗，分别放置刚刚磨成均匀小碎块的咖啡豆，倒入热水。待沉淀静置后，咖啡师用宽勺拨开陶碗液面浓厚的油脂，让释放出的香味充满鼻腔，然后小心舀起表面半勺咖啡，一瞬间吸入口中。激起的水雾同时刺激空腔鼻腔所有神经细胞，让咖啡师得以对此豆做出标准化的评价。</p>
+-->
 	{{content}}
+	
+</section>
 </body>
 
 </html>

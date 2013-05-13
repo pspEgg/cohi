@@ -1,5 +1,5 @@
 ---
-title: template
+title: default
 ---
 
 <!doctype html>
@@ -7,18 +7,20 @@ title: template
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-    <title>{{page.title}}</title>
+    <title>{{title}}</title>
 </head>
 
 <style type="text/css">
 
+
 	body{
+	background-color: #fffcf5;
 	margin:0;
 	padding:0;
-	font-size:24px;
+	font-size:16px;
 	}
 	h1,h2,h3{
-	font-size:1.5em;
+	font-size:2em;
 	text-align:center;
 	background-color: maroon;
 	color:white;
@@ -39,6 +41,13 @@ title: template
 	//max-width:640px;
 	margin:0 auto;
 	}
+	ol{
+	font-size:1.5em;
+	}
+	li p ~ p {
+	font-size:0.65em;
+	}
+
 
 	
 </style>

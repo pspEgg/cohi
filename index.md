@@ -1,5 +1,5 @@
 ---
-title: co-hi-
+title: 咖啡
 layout: default
 ---
 
@@ -7,26 +7,50 @@ layout: default
 
 # 制咖啡法
 
-1. 从新鲜烘焙的豆子开始。[（英国这家红标签的豆子都很好）](http://shop.squaremilecoffee.com/)
-2. 磨咖啡。将磨环轻轻拧到底后拧松两到来格。咖啡磨块磨过"1"刻度的地方就好。[（淘宝磨豆机🔍）](http://s.taobao.com/search?initiative_id=staobaoz_20130513&jc=1&q=hario+mss+1b)
-3. 泡咖啡。容器中[（淘宝Aeropress🔍）](http://s.taobao.com/search?initiative_id=staobaoz_20130513&jc=1&q=%B0%AE%C0%D6%D1%B9+aeropress)倒入咖啡和开水，水面在刻度3到4之间。等待1分钟。可以搅拌。
-4. 过滤渣子。用塞子通过滤纸压出咖啡。
-5. 喝咖啡时小心烫舌头。咖啡在降温时味道才会逐渐出来，别急。
+1. 
 
-# 下一步
+	新鲜的豆子。
 
-探索淘宝上小作坊烘焙的咖啡，[可以这么搜。](http://s.taobao.com/search?initiative_id=staobaoz_20130513&jc=1&q=%CF%C2%B5%A5%BA%E6%B1%BA+%BF%A7%B7%C8)
+	[英国这家](http://shop.squaremilecoffee.com/)带有红色标签的咖啡都很靠谱。
 
-# 再下一步
+2. 
 
-[漏斗咖啡壶：V60](http://s.taobao.com/search?&q=hario%20v60&suggest=0_1&wq=hario%20v&suggest_query=hario%20v60&source=suggest&initiative_id=staobaoz_20130513)
+	磨咖啡。
+
+	[日本手摇机](http://s.taobao.com/search?initiative_id=staobaoz_20130513&jc=1&q=hario+mss+1b)研磨非常均匀。初用组装时将研磨环轻轻拧到底后再拧松三或四格，这个研磨细度非常适合Aeropress。
+
+3. 
+
+	泡咖啡。
+
+	[Aeropress](http://s.taobao.com/search?initiative_id=staobaoz_20130513&jc=1&q=%B0%AE%C0%D6%D1%B9+aeropress)是个人使用最完美的泡制器。制作快，质量高，瞬间清洗。
+
+4.
+
+	过滤。
+
+	滤纸种类没什么可选的，用原装的就好。
+
+5.  
+
+	喝咖啡。
+
+	初喝咖啡的人经常烫舌头，或者让水蒸气盖过香味。咖啡在降温时味道才会逐渐出来，别急。还有就是，咖啡毕竟是有咖啡因，喝得越多越喜欢喝，即使是当初不喜欢的口味。
+
+# 下一步：各种咖啡豆
+
+咖啡这个爱好最有回报的就是对各种豆子的追求。下一步可以探索探索淘宝上小作坊烘焙的咖啡，[比如说可以这么搜。](http://s.taobao.com/search?initiative_id=staobaoz_20130513&jc=1&q=%CF%C2%B5%A5%BA%E6%B1%BA+%BF%A7%B7%C8)记得多问卖家问题。有一次我和一个石家庄的小作坊讨论了半天咖啡的烘焙，卖家还特意为我少量准备了各种烘焙程度的同种咖啡豆，供我尝试。
+
+# 再下一步：制作方法
+
+接下来唯一可以优化咖啡制作过程的就是一个同样研磨均匀的电动机。Baratza Virtuoso 586是价格最低，质量足够好的，但是淘宝上的没有一个Virtuose标有586。586代表使用改良后的磨环，所以小心购买。日本的[漏斗咖啡壶：V60](http://s.taobao.com/search?&q=hario%20v60&suggest=0_1&wq=hario%20v&suggest_query=hario%20v60&source=suggest&initiative_id=staobaoz_20130513)是美国咖啡店现做咖啡的首选，只是因为非常容易教给员工罢了。但是因为非常便宜，可以买来尝试一下。
 
 
-# 关于咖啡
+# 关于「制咖啡法」
 
 周二晚上，旧金山现代艺术馆顶楼，"蓝瓶子"的咖啡师在长桌上摆一排陶碗，分别放置刚刚磨成均匀小碎块的咖啡豆，倒入热水。待沉淀静置后，咖啡师用宽勺拨开陶碗液面浓厚的油脂，让释放出的香味充满鼻腔，然后小心舀起表面半勺咖啡，一瞬间吸入口中。激起的水雾同时刺激空腔鼻腔所有神经细胞，让咖啡师得以对此豆做出标准化的评价。
 
-世界咖啡师在同意如此品咖啡后，得以用共同的**咖啡豆**语言来交流。咖啡最重要的是豆子，而非制作所用的仪器
+咖啡师所用语言居然是基于如此简单的泡制！既然咖啡店里法压咖啡，滴坠咖啡和各种风格的浓缩咖啡所用的豆子是这样决定的，我们寻找那杯完美的早晨咖啡时也要从豆子开始。
 
 
 
